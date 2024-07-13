@@ -38,6 +38,7 @@ To set up and run this project locally, follow these steps:
 2. **Install dependencies:**
    ```bash
    npm install
+   This will read the package.json file and install all the dependencies listed under dependencies and devDependencies.
 
 2. **Run the application:**
    ```bash
@@ -54,7 +55,7 @@ This will start the development server and open the app in your default web brow
 ## Folder Structure
 The project structure is as follows:
 ```bash
-   todo-list-app/
+todo-list-app/
 ├── public/
 │   ├── index.html
 │   └── ...
