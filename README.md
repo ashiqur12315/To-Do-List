@@ -15,7 +15,14 @@ This is a simple To-Do List application built with React, Redux, TypeScript, and
 
 ## Overview
 
-The To-Do List app is designed to help you manage your tasks efficiently. It uses modern web technologies to provide a responsive and interactive user experience. It is built in React, Redux, TypeScript, and Tailwind CSS. 
+TThe To-Do List app is a simple yet powerful task management tool designed to help you keep track of your daily tasks.It is Built using modern web technologies like React, Redux, TypeScript, and Tailwind CSS. This application provides a responsive and intuitive user interface.
+![image](https://github.com/ashiqur12315/my-first-repo/blob/main/td.PNG)
+
+## Technologies Used
+- React: A JavaScript library for building user interfaces. React allows us to create reusable UI components.
+- Redux: A state management library for JavaScript applications. In this app, Redux is used to manage the state of the to-do task list items.
+- TypeScript: A statically typed superset of JavaScript that enhances code quality and maintainability.
+- Tailwind CSS: A utility-first CSS framework that provides low-level utility classes to build custom designs quickly.
 
 ## Features
 
@@ -40,7 +47,7 @@ To set up and run this project locally, follow these steps:
    npm install
 This will read the package.json file and install all the dependencies listed under dependencies and devDependencies.
 
-2. **Run the application:**
+3. **Run the application:**
    ```bash
    npm start
 
