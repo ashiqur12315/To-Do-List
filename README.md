@@ -32,5 +32,9 @@ To set up and run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/ashiqur12315/To-Do-List.git
    cd todo-list-app
+
+2. Install dependencies:
+   ```bash
+   npm install
