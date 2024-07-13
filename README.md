@@ -38,7 +38,7 @@ To set up and run this project locally, follow these steps:
 2. **Install dependencies:**
    ```bash
    npm install
-   This will read the package.json file and install all the dependencies listed under dependencies and devDependencies.
+This will read the package.json file and install all the dependencies listed under dependencies and devDependencies.
 
 2. **Run the application:**
    ```bash
