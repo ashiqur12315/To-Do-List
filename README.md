@@ -52,9 +52,9 @@ This will start the development server and open the app in your default web brow
 
 ## Usage
 - Add a task: Enter the task text in the input field and click the "Add" button.
-- Toggle a task: Click on the task text to toggle its completion status.
-- Edit a task: Click the "Edit" button next to a task, modify the text, and click "Save" to update the task.
-- Delete a task: Click the "Delete" button next to a task to remove it from the list.
+- Toggle a task: Click on the task circular button icon to toggle its completion status.
+- Edit a task: Click the "Edit" button icon next to a task, modify the text, and click "Save" to update the task.
+- Delete a task: Click the "Delete" button icon next to a task to remove it from the list.
 
 ## Folder Structure
 The project structure is as follows:
