@@ -43,3 +43,38 @@ To set up and run this project locally, follow these steps:
    ```bash
    npm start
 
+This will start the development server and open the app in your default web browser. The app will be available at http://localhost:3000.
+
+## Usage
+- Add a task: Enter the task text in the input field and click the "Add" button.
+- Toggle a task: Click on the task text to toggle its completion status.
+- Edit a task: Click the "Edit" button next to a task, modify the text, and click "Save" to update the task.
+- Delete a task: Click the "Delete" button next to a task to remove it from the list.
+
+## Folder Structure
+The project structure is as follows:
+```bash
+   todo-list-app/
+├── public/
+│   ├── index.html
+│   └── ...
+├── src/
+│   ├── app/
+│   │   ├── store.ts
+│   ├── features/
+│   │   ├── todos/
+│   │   │   ├── Todo.tsx
+│   │   │   ├── todoSlice.ts
+│   ├── index.css
+│   ├── index.tsx
+│   ├── App.tsx
+│   ├── App.css
+│   └── ...
+├── tailwind.config.js
+├── postcss.config.js
+├── tsconfig.json
+├── package.json
+└── README.md
+
+
+
